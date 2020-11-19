@@ -1,0 +1,22 @@
+tf_config = {
+    'cluster': {
+        'worker': [
+                 'CPCX-201636.dominio.ufms.br:23456'
+                 'CPCX-201637.dominio.ufms.br:23456'
+                 'CPCX-201638.dominio.ufms.br:23456'
+                 'CPCX-201639.dominio.ufms.br:23456'
+                 'CPCX-201640.dominio.ufms.br:23456'
+                 'CPCX-201641.dominio.ufms.br:23456'
+                 'CPCX-201642.dominio.ufms.br:23456'
+                 'CPCX-201643.dominio.ufms.br:23456'
+                 'CPCX-201644.dominio.ufms.br:23456'
+                 'CPCX-201645.dominio.ufms.br:23456'
+                 'CPCX-201646.dominio.ufms.br:23456'
+                 'CPCX-201647.dominio.ufms.br:23456'
+                 'CPCX-201648.dominio.ufms.br:23456'
+                 'CPCX-201649.dominio.ufms.br:23456'      
+                 'CPCX-201650.dominio.ufms.br:23456'
+                 ]
+    },
+    'task': {'type': 'worker', 'index': 0}
+}
